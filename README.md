@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIVEK00327/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0649-dota2-senate](https://github.com/VIVEK00327/LeetCode/tree/master/0649-dota2-senate) |
 ## Sliding Window
 |  |
 | ------- |
@@ -49,9 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/VIVEK00327/LeetCode/tree/master/0649-dota2-senate) |
 | [2073-time-needed-to-buy-tickets](https://github.com/VIVEK00327/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/VIVEK00327/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+## Greedy
+|  |
+| ------- |
+| [0649-dota2-senate](https://github.com/VIVEK00327/LeetCode/tree/master/0649-dota2-senate) |
 <!---LeetCode Topics End-->
