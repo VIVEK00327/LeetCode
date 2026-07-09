@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/VIVEK00327/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIVEK00327/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VIVEK00327/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/VIVEK00327/LeetCode/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIVEK00327/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/VIVEK00327/LeetCode/tree/master/0242-valid-anagram) |
 | [0649-dota2-senate](https://github.com/VIVEK00327/LeetCode/tree/master/0649-dota2-senate) |
 ## Sliding Window
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/VIVEK00327/LeetCode/tree/master/0649-dota2-senate) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/VIVEK00327/LeetCode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
