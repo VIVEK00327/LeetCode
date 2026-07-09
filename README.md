@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VIVEK00327/LeetCode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/VIVEK00327/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/VIVEK00327/LeetCode/tree/master/0217-contains-duplicate) |
 | [2073-time-needed-to-buy-tickets](https://github.com/VIVEK00327/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIVEK00327/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VIVEK00327/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VIVEK00327/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/VIVEK00327/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VIVEK00327/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/VIVEK00327/LeetCode/tree/master/0383-ransom-note) |
 ## Linked List
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VIVEK00327/LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/VIVEK00327/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VIVEK00327/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
 |  |
