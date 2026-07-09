@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/VIVEK00327/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VIVEK00327/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/VIVEK00327/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/VIVEK00327/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Linked List
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIVEK00327/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/VIVEK00327/LeetCode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/VIVEK00327/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/VIVEK00327/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/VIVEK00327/LeetCode/tree/master/0649-dota2-senate) |
 ## Sliding Window
 |  |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/VIVEK00327/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/VIVEK00327/LeetCode/tree/master/0649-dota2-senate) |
 | [2073-time-needed-to-buy-tickets](https://github.com/VIVEK00327/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Simulation
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/VIVEK00327/LeetCode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/VIVEK00327/LeetCode/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/VIVEK00327/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
