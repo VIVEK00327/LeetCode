@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/VIVEK00327/LeetCode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/VIVEK00327/LeetCode/tree/master/0062-unique-paths) |
 | [1512-number-of-good-pairs](https://github.com/VIVEK00327/LeetCode/tree/master/1512-number-of-good-pairs) |
 ## Recursion
 |  |
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VIVEK00327/LeetCode/tree/master/0169-majority-element) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/VIVEK00327/LeetCode/tree/master/0062-unique-paths) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/VIVEK00327/LeetCode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
