@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VIVEK00327/LeetCode/tree/master/0001-two-sum) |
+| [0078-subsets](https://github.com/VIVEK00327/LeetCode/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/VIVEK00327/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VIVEK00327/LeetCode/tree/master/0217-contains-duplicate) |
 | [1512-number-of-good-pairs](https://github.com/VIVEK00327/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -104,4 +105,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/VIVEK00327/LeetCode/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/VIVEK00327/LeetCode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VIVEK00327/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
