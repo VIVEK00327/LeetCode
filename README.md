@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/VIVEK00327/LeetCode/tree/master/0078-subsets) |
 | [0169-majority-element](https://github.com/VIVEK00327/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VIVEK00327/LeetCode/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/VIVEK00327/LeetCode/tree/master/0283-move-zeroes) |
 | [1512-number-of-good-pairs](https://github.com/VIVEK00327/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2073-time-needed-to-buy-tickets](https://github.com/VIVEK00327/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VIVEK00327/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VIVEK00327/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VIVEK00327/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/VIVEK00327/LeetCode/tree/master/0283-move-zeroes) |
 ## Queue
 |  |
 | ------- |
