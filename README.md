@@ -114,4 +114,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/VIVEK00327/LeetCode/tree/master/0078-subsets) |
+## Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/VIVEK00327/LeetCode/tree/master/0112-path-sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/VIVEK00327/LeetCode/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/VIVEK00327/LeetCode/tree/master/0112-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/VIVEK00327/LeetCode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
