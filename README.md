@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VIVEK00327/LeetCode/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/VIVEK00327/LeetCode/tree/master/0018-4sum) |
 | [0078-subsets](https://github.com/VIVEK00327/LeetCode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/VIVEK00327/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VIVEK00327/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/VIVEK00327/LeetCode/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VIVEK00327/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VIVEK00327/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/VIVEK00327/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/VIVEK00327/LeetCode/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/VIVEK00327/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/VIVEK00327/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VIVEK00327/LeetCode/tree/master/0217-contains-duplicate) |
