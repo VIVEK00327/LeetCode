@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/VIVEK00327/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/VIVEK00327/LeetCode/tree/master/0283-move-zeroes) |
 | [0456-132-pattern](https://github.com/VIVEK00327/LeetCode/tree/master/0456-132-pattern) |
+| [0739-daily-temperatures](https://github.com/VIVEK00327/LeetCode/tree/master/0739-daily-temperatures) |
 | [1512-number-of-good-pairs](https://github.com/VIVEK00327/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [2073-time-needed-to-buy-tickets](https://github.com/VIVEK00327/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 ## Hash Table
@@ -154,10 +155,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/VIVEK00327/LeetCode/tree/master/0456-132-pattern) |
+| [0739-daily-temperatures](https://github.com/VIVEK00327/LeetCode/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/VIVEK00327/LeetCode/tree/master/0456-132-pattern) |
+| [0739-daily-temperatures](https://github.com/VIVEK00327/LeetCode/tree/master/0739-daily-temperatures) |
 ## Ordered Set
 |  |
 | ------- |
