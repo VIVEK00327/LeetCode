@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VIVEK00327/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VIVEK00327/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0146-lru-cache](https://github.com/VIVEK00327/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VIVEK00327/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VIVEK00327/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VIVEK00327/LeetCode/tree/master/0217-contains-duplicate) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/VIVEK00327/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VIVEK00327/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VIVEK00327/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0146-lru-cache](https://github.com/VIVEK00327/LeetCode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VIVEK00327/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/VIVEK00327/LeetCode/tree/master/0203-remove-linked-list-elements) |
 ## Math
@@ -160,4 +162,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/VIVEK00327/LeetCode/tree/master/0456-132-pattern) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/VIVEK00327/LeetCode/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/VIVEK00327/LeetCode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
